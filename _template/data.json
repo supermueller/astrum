@@ -20,6 +20,7 @@
         "code_highlight_theme": "github",
         "override_code_highlight_bg": "#F9FAFC",
         "sample_dark_background": "#333333",
+        "sample_highlight_background": "",
         "show_project_name": true,
         "show_version": true,
         "max_width": null,
